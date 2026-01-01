@@ -114,19 +114,12 @@ As required by Apple, we disclose:
   - Usage Data
   - Diagnostics
 
-## Open Source
-
-This App is open source:
-- Source code: https://github.com/Mvvei/Kindle-Vocabulary-Mate-iOS
-- You can review how the App works
-- Contributions and feedback welcome
 
 ## Contact
 
 For questions, concerns, or requests regarding this Privacy Policy:
 
-- **GitHub Issues:** https://github.com/Mvvei/Kindle-Vocabulary-Mate-iOS/issues
-- **Email:** (Add your email if you want to provide one)
+- **Email:** vocabulary.mate@outlook.com
 
 ## Legal
 
